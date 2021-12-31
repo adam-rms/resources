@@ -1,1 +1,1 @@
-This directory contains assets (such as logos/marketing materials)
+This repo contains assets (such as logos/marketing materials)
